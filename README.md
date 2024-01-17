@@ -1,15 +1,16 @@
-# Projeto-Técnicas de Programacao I
+# Projeto-Técnicas de Programacao I #
 Grupo E 
 Composto por: 
-- <i class="fa fa-lightbulb"></i> :bulb:Michele Regina
-- <i class="fa fa-lightbulb"></i> :bulb:Carlos Victor Santana
-- <i class="fa fa-lightbulb"></i> :bulb:Milena Juliane
-- <i class="fa fa-lightbulb"></i> :bulb:Thiago Rochedo
-- <i class="fa fa-lightbulb"></i> :bulb:Cristiane
-- <i class="fa fa-lightbulb"></i> :bulb:Rafael Braga
+- <i class="fa fa-lightbulb"></i> :star:Michele Regina
+- <i class="fa fa-lightbulb"></i> :star:Carlos Victor Santana
+- <i class="fa fa-lightbulb"></i> :star:Milena Juliane
+- <i class="fa fa-lightbulb"></i> :star:Thiago Rochedo
+- <i class="fa fa-lightbulb"></i> :star:Cristiane
+- <i class="fa fa-lightbulb"></i> :star:Rafael Braga
 
-**Professores:** Alex Lima & Camila Assis
-
+**Professores:**
+<i class="fas fa-laptop"></i>
+Alex Lima & Camila Assis <i class="fas fa-laptop"></i>
 
 
 
@@ -31,3 +32,7 @@ Composto por:
          - Comparações;
          - Tendências de crescimento ou queda;
      - Gráficos
+  
+  **Banco de Dados**
+  -<i class="fas fa-database"></i>
+ - > https://drive.google.com/file/d/1hfafOCS6hHmzJsGywGRkVZFbM_mA1krH/view?usp=drive_link
