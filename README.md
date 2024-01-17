@@ -9,10 +9,10 @@ Composto por:
 - <i class="fa fa-lightbulb"></i> :star:Rafael Braga
 
 **Professores:**
-<i class="fas fa-laptop"></i> Alex Lima & Camila Assis <i class="fas fa-laptop"></i>
+<i class="fas fa-laptop"></i> 📔 Alex Lima & Camila Assis <i class="fas fa-laptop"></i> 📔
 
 
-<i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> 
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 <center><h3>Projeto Vem Ser Tech 2024 - <DS> Turma 1101<h3></center>
 
@@ -34,5 +34,5 @@ Composto por:
      - Gráficos
   
   **Banco de Dados**
-  -<i class="fas fa-database"></i>
- - > https://drive.google.com/file/d/1hfafOCS6hHmzJsGywGRkVZFbM_mA1krH/view?usp=drive_link
+  
+⚓ https://drive.google.com/file/d/1hfafOCS6hHmzJsGywGRkVZFbM_mA1krH/view?usp=drive_link
