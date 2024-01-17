@@ -1,16 +1,13 @@
 # Projeto-Técnicas de Programacao I
 Grupo E 
 Composto por: 
-GRUPO E
-MIchele Regina
-Carlos Victor Santana
-Milena Juliane
-Thiago Rochedo
-Cristiane
-Rafael Braga
+- <i class="fa fa-lightbulb"></i> :bulb:Michele Regina
+- <i class="fa fa-lightbulb"></i> :bulb:Carlos Victor Santana
+- <i class="fa fa-lightbulb"></i> :bulb:Milena Juliane
+- <i class="fa fa-lightbulb"></i> :bulb:Thiago Rochedo
+- <i class="fa fa-lightbulb"></i> :bulb:Cristiane
+- <i class="fa fa-lightbulb"></i> :bulb:Rafael Braga
 
-
-# Projeto: Técnicas de Programação I
 **Professores:** Alex Lima & Camila Assis
 
 
