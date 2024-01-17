@@ -9,14 +9,14 @@ Composto por:
 - <i class="fa fa-lightbulb"></i> :star:Rafael Braga
 
 **Professores:**
-<i class="fas fa-laptop"></i>
-Alex Lima & Camila Assis <i class="fas fa-laptop"></i>
+<i class="fas fa-laptop"></i> Alex Lima & Camila Assis <i class="fas fa-laptop"></i>
 
 
+<i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> <i class="fas fa-lightbulb"></i> 
 
 <center><h3>Projeto Vem Ser Tech 2024 - <DS> Turma 1101<h3></center>
 
-**Objetivo**<br> Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. Estruture sua análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos em uma linha do tempo. Você está livre para incluir quantas bases considerar necessário e filtrar as informações mais relevantes para sua história.  
+**Objetivo e Orientações do Projeto **<br> Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. Estruture sua análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos em uma linha do tempo. Você está livre para incluir quantas bases considerar necessário e filtrar as informações mais relevantes para sua história.  
 
  - Apresentação da análise
      - Storytelling; 
