@@ -1,7 +1,19 @@
-# Projeto-Tcnicas-de-Programacao-I
-Grupo E | Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. 
+# Projeto-Técnicas de Programacao I
+Grupo E 
+Composto por: 
+GRUPO E
+MIchele Regina
+Carlos Victor Santana
+Milena Juliane
+Thiago Rochedo
+Cristiane
+Rafael Braga
+
+
 # Projeto: Técnicas de Programação I
 **Professores:** Alex Lima & Camila Assis
+
+
 
 
 <center><h3>Projeto Vem Ser Tech 2024 - <DS> Turma 1101<h3></center>
