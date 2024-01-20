@@ -35,4 +35,11 @@ Composto por:
   
   **Banco de Dados**
   
-⚓ https://drive.google.com/file/d/1hfafOCS6hHmzJsGywGRkVZFbM_mA1krH/view?usp=drive_link
+⚓ https://drive.google.com/file/d/1mGzkh_ZQEG4BiV96XFiLlOIxbL259xyJ/view?usp=sharing
+
+Esse banco de Dados foi formulado com dados extraídos de uma base do MEC, porém foram criados dados fictícios pelo nosso grupo para ajudar a trabalhar melhor com análise de dimensões e colunas
+
+** Participação**
+
+⭐ O grupo é composto por 6 integrantes, podemos ver a participação conforme a quantidade de commits realizadas no Projeto, trabalhamos via Collab, Vscode e git
+
