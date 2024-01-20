@@ -1,0 +1,812 @@
+NOME_SUBTIPO_DE_CURSOS,CODIGO_CURSO,CURSO,EIXO_TECNOLOGICO,MODALIDADE,CARGA_HORARIA_CURSO,SITUACAO_ATIVO,CODIGO_UNIDADE_DE_ENSINO,UNIDADE_DE_ENSINO,UF,CODIGO_MUNICIPIO,MUNICIPIO,INICIO,DESISTENCIA,QTDADE_ALUNOS
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47955,FACULDADE PITÁGORAS DE MACEIÓ - UNIDADE SEDE,AL,2704302,Maceió,2022,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2024,0,30
+Técnico,18,Técnico em Nutrição e Dietética,Ambiente e Saúde,Educação Presencial,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2023,0,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2023,0,30
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46490,FACULDADE FAMART - UNIDADE SEDE,MG,3133808,Itaúna,2021,3,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46821,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE IRANDUBA/AM,AM,1301852,Iranduba,2022,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46780,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CACHOEIRINHA/RS,RS,4303103,Cachoeirinha,2024,2,60
+Graduação,52,Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,46490,FACULDADE FAMART - UNIDADE SEDE,MG,3133808,Itaúna,2021,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31508,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL - PAULO AFONSO/BA - UNIDADE PAULO AFONSO,BA,2924009,Paulo Afonso,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46792,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Catalão/GO,GO,5205109,Catalão,2022,1,20
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2023,1,30
+Técnico,378734,TÉCNICO EM SERVIÇOS DE RESTAURANTE E BAR,"Turismo, Hospitalidade e Lazer",EAD,800,a,24170,CENTRO UNIVERSITÁRIO DO SUL DE MINAS - UNIS - Cidade Universitária,MG,3170701,Varginha,2024,1,50
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31532,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Passo Fundo/RS,,4314100,Passo Fundo,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46820,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IPU/CE,CE,2305803,Ipu,2020,1,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31137,CENTRO UNIVERSITÁRIO ANHANGUERA DE CAMPO GRANDE - UNIDADE II - CHÁCARA DAS MANSÕES - CAMPUS CAMPO GRANDE,MS,5002704,Campo Grande,2022,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46856,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PELOTAS/RS - UNIDADE 2,RS,4314407,Pelotas,2022,1,60
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,,800,t,46810,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - POLO DE APOIO PRESENCIAL DE GRANJA/CE,CE,2304707,Granja,2020,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31489,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Joinville/SC - Unidade 1,SC,4209102,Joinville,2020,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31142,FACULDADE PITÁGORAS DE BELO HORIZONTE - fpas - Unidade Sede - Campus II - Antônio Carlos,MG,3106200,Belo Horizonte,2022,0,30
+Técnico,378730,TÉCNICO EM BRINQUEDOTECA,Desenvolvimento Educacional e Social,EAD,800,t,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2020,2,40
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46802,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ESTEIO/RS,RS,4307708,Esteio,2024,5,20
+Graduação,71,Graduação em Lazer,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2021,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,0,20
+Técnico,68,Técnico em Eventos,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2020,0,
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,1,10
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,24091,Centro Universitário Católica do Leste de Minas Gerais (UNILESTE) -CAMPUS III - IPATINGA,MG,3131307,Ipatinga,2020,2,10
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24645,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SÃO JERÔNIMO,RS,4318408,São Jerônimo,2020,4,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2020,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46845,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MONTENEGRO/RS,RS,4312401,Montenegro,2020,1,30
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46787,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANGUÇU/RS,RS,4304507,Canguçu,2022,1,20
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,47244,FACULDADE SAPIENS - PORTO VELHO,RO,1100205,Porto Velho,2021,0,20
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2022,0,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2021,0,30
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,a,50123,FACULDADE ICESP - UNIDADE ÁGUAS CLARAS,DF,5300108,Brasília,2024,3,30
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,25099,UNIVERSIDADE FEEVALE - CAMPUS: SEDE,RS,4313409,Novo Hamburgo,2023,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46799,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE DIVINÓPOLIS/MG,MG,3122306,Divinópolis,2024,2,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50294,FACULDADE ANHANGUERA DE SALVADOR,BA,2927408,Salvador,2022,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31592,FACULDADE PROMOVE DE SETE LAGOAS - UNIDADE SEDE - CAMPUS SETE LAGOAS,MG,3167202,Sete Lagoas,2022,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46785,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Campos Novos/SC,SC,4203600,Campos Novos,2022,1,20
+Graduação,8,Graduação em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50155,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - FMU - LIBERDADE - CLÍNICAS,SP,3550308,São Paulo,2021,1,20
+Graduação,151,Publicidade,Produção Cultural e Design,Educação Presencial,800,a,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2023,1,30
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,,4113700,Londrina,2023,0,50
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,32349,UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ - CAMPUS  - CHAPECÓ - EFAPI - CAMPUS SEDE_CHAPECÓ,SC,4204202,Chapecó,2022,1,20
+Técnico,139,TÉCNICO EM DESIGN DE INTERIORES,Produção Cultural e Design,Educação Presencial,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46882,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SAPIRANGA/RS,RS,4319901,Sapiranga,2023,1,20
+Técnico,63,Técnico em Serviços Públicos,Gestão e Negócios,Educação Presencial,800,t,46490,FACULDADE FAMART - UNIDADE SEDE,MG,3133808,Itaúna,2023,0,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2022,1,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,,800,t,46816,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE IGREJINHA/RS,RS,4310108,Igrejinha,2023,1,10
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,47015,FACULDADE CESAR - FCE - campus principal,PE,2611606,Recife,2023,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24663,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO JI-PARANÁ,RO,1100122,Ji-Paraná,2023,2,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31489,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Joinville/SC - Unidade 1,SC,4209102,Joinville,2024,5,40
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46810,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - POLO DE APOIO PRESENCIAL DE GRANJA/CE,CE,2304707,Granja,2024,2,20
+Graduação,37,Graduação em Eletroeletrônica,Controle e Processos Industriais,Educação Presencial,1200,t,50165,CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCÍNIO - CEUNSP - CAMPUS SALTO,SP,3545209,Salto,2020,0,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50242,UNIVERSIDADE PARANAENSE - UNIPAR - FRANCISCO BELTRÃO,PR,4108403,Francisco Beltrão,2023,0,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2021,1,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46769,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ARAQUARI/SC,SC,4201307,Araquari,2022,2,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46802,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ESTEIO/RS,RS,4307708,Esteio,2022,4,10
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,0,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2024,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2022,1,30
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,a,46492,FACULDADE DE TECNOLOGIA ALTOMEDIO SÃO FRANCISCO,MG,3151206,Pirapora,2024,0,
+Técnico,232039,Técnico em Soldagem,Controle e Processos Industriais,EAD,1200,t,41986,CENTRO UNIVERSITÁRIO DE PATOS DE MINAS - UNIDADE SEDE - CAMPUS PATOS DE MINAS,MG,3148004,Patos de Minas,2021,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2022,3,20
+Graduação,23,Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2023,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46893,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TORRES/RS,RS,4321501,Torres,2022,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46809,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE GOIANÉSIA DO PARÁ/PA,PA,1503093,Goianésia do Pará,2022,0,30
+Técnico,149,Técnico em Produção de Áudio e Vídeo,Produção Cultural e Design,Educação Presencial,800,t,42663,FACULDADES INTEGRADAS HÉLIO ALONSO - UNIDADE SEDE - CAMPUS RIO DE JANEIRO,RJ,3304557,Rio de Janeiro,2021,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46859,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PINHAIS/PR,PR,4119152,Pinhais,2022,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46780,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CACHOEIRINHA/RS,RS,4303103,Cachoeirinha,2021,1,60
+Técnico,29,Técnico em Alimentação Escolar,Desenvolvimento Educacional e Social,Educação Presencial,1200,t,31193,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - LIBERDADE,SP,3550308,São Paulo,2021,1,20
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,46722,CENTRO UNIVERSITÁRIO DE GOIÁS UNI- ANHANGUERA,GO,5208707,Goiânia,2020,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24608,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO MANAUS CEULM,AM,1302603,Manaus,2021,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46779,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CABO FRIO/RJ,RJ,3300704,Cabo Frio,2022,1,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46792,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Catalão/GO,GO,5205109,Catalão,2024,1,50
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2021,0,20
+Técnico,8,Graduação em Estética,Ambiente e Saúde,Educação Presencial,1200,t,30826,FACULDADE DE TECNOLOGIA E CIÊNCIAS DE ITABUNA - CAMPUS: UNIDADE SEDE,BA,2914802,Itabuna,2021,1,30
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2021,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2021,0,60
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50017,FACULDADE SANTA TEREZA,,1302603,Manaus,2021,2,
+Técnico,56,Técnico em Logística,Gestão e Negócios,,800,t,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2021,5,10
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2021,2,20
+Técnico,144,TÉCNICO EM INSTRUMENTO MUSICAL,Produção Cultural e Design,Educação Presencial,1200,t,31205,FIAM-FAAM - CENTRO UNIVERSITÁRIO - UNIFIAM-FAAM - Liberdade - Prédio 7,SP,3550308,São Paulo,2021,0,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,29632,CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL - CAMPUS REITOR REZENDE RIBEIRO DE REZENDE,DF,5300108,Brasília,2022,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46846,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MONTES CLAROS/MG,MG,3143302,Montes Claros,2021,1,20
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,t,25121,CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX - CAMPUS: UNIDADE SEDE,MG,3106200,Belo Horizonte,2021,2,20
+Técnico,77,Técnico em Redes de Computadores,Informação e Comunicação,Educação Presencial,1000,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2021,4,20
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2022,0,
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,46750,FACULDADE UNIFICADA DO ESTADO DE SAO PAULO,SP,3529401,Mauá,2020,1,10
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,t,50124,FACULDADE DO INSTITUTO BRASIL - UNIDADE SEDE,GO,5201108,Anápolis,2024,,10
+Técnico,68,Técnico em Eventos,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2023,1,60
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,a,25045,UNIVERSIDADE METODISTA DE SÃO PAULO - CAMPUS: CAMPUS RUDGE RAMOS,SP,3548708,São Bernardo do Campo,2024,0,60
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24786,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO ITUMBIARA,GO,5211503,Itumbiara,2022,0,
+Graduação,73,Graduação em Informática,Informação e Comunicação,Educação Presencial,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2020,3,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46882,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SAPIRANGA/RS,RS,4319901,Sapiranga,2024,0,20
+Graduação,52,Graduação em Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,47130,UNIVERSIDADE SANTA ÚRSULA - usu - CAMPUS - RIO DE JANEIRO - BOTAFOGO,RJ,3304557,Rio de Janeiro,2020,2,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,a,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2023,0,30
+Técnico,15,Técnico em Massoterapia,Ambiente e Saúde,Educação Presencial,1200,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46877,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LEOPOLDO/RS,RS,4318705,São Leopoldo,2022,1,40
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50227,FACULDADE METROPOLITANA DO CEARÁ  - SEDE CAMBEBA,CE,2304400,Fortaleza,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2022,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46764,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ALEGRETE/RS,RS,4300406,Alegrete,2022,0,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2022,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2024,1,30
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,31804,UNIVERSIDADE LA SALLE (UNILASALLE) - CANOAS SEDE,RS,4304606,Canoas,2024,0,50
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50212,FACULDADE SETE LAGOAS - FACSETE - Prédio Novo nº 86,MG,3167202,Sete Lagoas,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,31733,ESCOLA SUPERIOR NACIONAL DE SEGUROS - CAMPUS: RIO DE JANEIRO - CENTRO,RJ,3304557,Rio de Janeiro,2022,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46876,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO JOAQUIM/SC,SC,4216503,São Joaquim,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46830,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JANUÁRIA/MG,MG,3135209,Januária,2022,2,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50274,FACULDADE TRÊS MARIAS - FTM - Faculdade Três Marias,PB,2507507,João Pessoa,2022,5,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24799,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO GUAÍBA,RS,4309308,Guaíba,2022,2,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,,4108304,Foz do Iguaçu,2022,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2024,0,30
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,t,24443,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: CAMPUS ANÁLIA FRANCO,SP,3550308,São Paulo,2022,1,40
+Técnico,95,Técnico em Transporte de Cargas,Infraestrutura,Educação Presencial,1000,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2022,2,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31193,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - LIBERDADE,SP,3550308,São Paulo,2022,4,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46774,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BARREIRAS/BA,BA,2903201,Barreiras,2022,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,25102,CENTRO UNIVERSITÁRIO GAMA E SOUZA CAMPUS III - BONSUCESSO,RJ,3304557,Rio de Janeiro,2022,1,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46847,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NATAL/RN - UNIDADE 1,RN,2408102,Natal,2022,1,10
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46800,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ESTÂNCIA VELHA/RS,RS,4307609,Estância Velha,2020,,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46878,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LOURENÇO DO SUL/RS,RS,4318804,São Lourenço do Sul,2022,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31524,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Camaquã/RS,RS,4303509,Camaquã,2022,0,30
+Técnico,232036,Técnico em Tradução e Interpretação de Libras,Desenvolvimento Educacional e Social,EAD,1200,t,43426,CENTRO UNIVERSITÁRIO DO NORTE - uninorte - Unidade de Ensino XV,AM,1302603,Manaus,2022,0,
+Técnico,15,Técnico em Massoterapia,Ambiente e Saúde,Educação Presencial,1200,t,29633,CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL - CAMPUS: EDIFICIO SEDE,DF,5300108,Brasília,2022,0,20
+Graduação,43,Graduação em Mecânica,Controle e Processos Industriais,Educação Presencial,1200,t,32174,UNIVERSIDADE NOVE DE JULHO - VILA PRUDENTE - CAMPUS SÃO PAULO,SP,3550308,São Paulo,2021,0,20
+Técnico,39,Técnico em Eletrônica,Controle e Processos Industriais,Educação Presencial,1200,t,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2022,0,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,,800,a,46467,FACULDADE DE TECNOLOGIA FINACI (FINACI) - SEDE,SP,3550308,São Paulo,2023,0,30
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,50099,FACULDADE SENAC GOIÁS - CAMPOS SANTA GENOVEVA,GO,5208707,Goiânia,2022,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46852,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE OSÓRIO/RS,RS,4313508,Osório,2020,0,40
+Técnico,40,Técnico em Eletrotécnica,Controle e Processos Industriais,Educação Presencial,1200,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46838,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LUÍS EDUARDO MAGALHÃES/BA,BA,2919553,Luís Eduardo Magalhães,2022,0,60
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,50240,Centro Universitário Fametro ( Unifametro) - CAMPUS CARNEIRO DA CUNHA,CE,2304400,Fortaleza,2022,3,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46858,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PESQUEIRA/PE,PE,2610905,Pesqueira,2022,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46848,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NITERÓI/RJ,RJ,3303302,Niterói,2020,2,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46894,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VENÂNCIO AIRES/RS,RS,4322608,Venâncio Aires,2020,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46805,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FORTALEZA/CE,CE,2304400,Fortaleza,2020,0,50
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46829,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JAÍBA/MG,MG,3135050,Jaíba,2021,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31239,FACULDADE DO NOROESTE DE MINAS - SEDE - POLO PARACATU,MG,3147006,Paracatu,2022,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46867,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ROLIM DE MOURA/RO,RO,1100288,Rolim de Moura,2023,1,20
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,a,46693,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR - CAMPUS TURU,MA,2111300,São Luís,2024,0,60
+Técnico,47,Técnico em Química,Produção Industrial,Educação Presencial,1200,t,24468,FACULDADE DE AMERICANA - CAMPUS: CAMPUS - AMERICANA - JARDIM LUCIENE,SP,3501608,Americana,2020,1,
+Técnico,1,Técnico em Agente Comunitário de Saúde,Ambiente e Saúde,Educação Presencial,1200,t,50110,CLARETIANO - FACULDADE DE BOA VISTA - CAMPUS PRINCIPAL,RR,1400100,Boa Vista,2021,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46851,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVO HAMBURGO/RS,RS,4313409,Novo Hamburgo,2022,1,20
+Técnico,54,Técnico em Cooperativismo,Gestão e Negócios,Educação Presencial,800,a,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2023,0,30
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,a,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),,1716505,Pedro Afonso,2024,1,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46886,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SOBRAL/CE,CE,2312908,Sobral,2022,1,20
+Técnico,32,Técnico em Multimeios Didáticos,Desenvolvimento Educacional e Social,Educação Presencial,1200,t,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2022,0,20
+Técnico,124,Técnico em Confeitaria,Produção Alimentícia,Educação Presencial,800,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2022,2,20
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,49947,FACULDADE ACESITA - FACESITA,MG,3168705,Timóteo,2022,5,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,30825,Centro Universitário de Excelência (UNEX) - CAMPUS - FEIRA DE SANTANA - SIM,BA,2910800,Feira de Santana,2020,2,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46811,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE GRAVATAÍ/RS,RS,4309209,Gravataí,2022,0,10
+Graduação,43,Graduação em Mecânica,Controle e Processos Industriais,Educação Presencial,1200,a,42140,FACULDADE CNEC RIO DAS OSTRAS - Sede,RJ,3304524,Rio das Ostras,2022,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46898,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VITÓRIA DA CONQUISTA/BA,BA,2933307,Vitória da Conquista,2022,1,60
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,t,41973,FACULDADE DO VALE DO JAGUARIBE - CAMPUS FVJ - SEDE - CAMPUS SEDE FVJ,CE,2301109,Aracati,2022,2,30
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46486,FACULDADE JARDINS,SE,2800308,Aracaju,2022,4,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46843,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MAUÉS/AM,AM,1302900,Maués,2022,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47165,UNIVERSIDADE DO OESTE DE SANTA CATARINA - unoesc - CAMPUS SÃO MIGUEL DO OESTE,SC,4217204,São Miguel do Oeste,2022,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46834,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LAGES/SC,SC,4209300,Lages,2022,,30
+Técnico,39,Técnico em Eletrônica,Controle e Processos Industriais,Educação Presencial,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2022,1,30
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,t,25091,CENTRO UNIVERSITÁRIO METODISTA - CAMPUS: UNIDADE CENTRAL IPA,RS,4314902,Porto Alegre,2022,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31524,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Camaquã/RS,RS,4303509,Camaquã,2024,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46826,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPAJÉ/CE,CE,2306306,Itapagé,2020,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46872,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ESTÊVÃO/BA,BA,2928802,Santo Estêvão,2020,3,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46823,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - uniasselvi - POLO DE APOIO PRESENCIAL DE ITACOATIARA/AM,AM,1301902,Itacoatiara,2020,0,20
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,a,24114,UNIVERSIDADE CATÓLICA DE BRASÍLIA - UCB - BRASÍLIA,DF,5300108,Brasília,2024,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46773,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BARRAS/PI,PI,2201200,Barras,2020,0,20
+Técnico,36,Técnico em Automação Industrial,Controle e Processos Industriais,Educação Presencial,1200,t,46733,CENTRO UNIVERSITÁRIO FACENS (UniFACENS) - 	Unidade SEDE,SP,3552205,Sorocaba,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,,800,t,46789,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAPITÃO POÇO/PA,PA,1502301,Capitão Poço,2020,1,50
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46879,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LUÍS/MA - UNIDADE 2,MA,2111300,São Luís,2020,1,20
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2022,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46791,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CASTANHAL/PA,PA,1502400,Castanhal,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2020,1,60
+Técnico,36,Técnico em Automação Industrial,Controle e Processos Industriais,Educação Presencial,1200,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2024,1,
+Técnico,92,Técnico em Saneamento,Infraestrutura,Educação Presencial,1200,a,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2023,1,10
+Técnico,34,TÉCNICO EM SECRETARIA ESCOLAR,Desenvolvimento Educacional e Social,Educação Presencial,800,a,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2023,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,24766,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA- POLO GRAVATAÍ,RS,4309209,Gravataí,2023,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46869,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO AMARO DA IMPERATRIZ/SC,SC,4215703,Santo Amaro da Imperatriz,2023,1,40
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,50025,CENTRO UNIVERSITÁRIO CEUNI - FAMETRO - UNIDADE 6 (ZONA LESTE),AM,1302603,Manaus,2023,0,20
+Técnico,173,Técnico em Agronegócio,Recursos Naturais,Educação Presencial,1200,a,24959,UNIÃO DAS FACULDADES DOS GRANDES LAGOS - UNILAGO - CAMPUS SÃO JOSÉ DO RIO PRETO,SP,3549805,São José do Rio Preto,2023,2,20
+Técnico,61,Técnico em Seguros,Gestão e Negócios,Educação Presencial,800,a,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2023,5,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46815,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - uniasselvi - POLO DE APOIO PRESENCIAL DE IBIRAMA/SC,SC,4206900,Ibirama,2020,2,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,24585,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SANTA MARIA,,4316907,Santa Maria,2020,0,10
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46834,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LAGES/SC,SC,4209300,Lages,2024,0,10
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,50105,Centro Universitário de Tecnologia de Curitiba -  UNIFATEC - SEDE,PR,4106902,Curitiba,2021,1,60
+Técnico,173,Técnico em Agronegócio,Recursos Naturais,Educação Presencial,1200,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2023,2,60
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,4,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46886,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SOBRAL/CE,CE,2312908,Sobral,2024,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2020,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46673,FACULDADE VIA SAPIENS - fvs - campus principal,CE,2313401,Tianguá,2022,1,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,50244,UNIVERSIDADE PARANAENSE (UNIPAR) - CIANORTE,PR,4105508,Cianorte,2023,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46771,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BALNEÁRIO PIÇARRAS/SC,SC,4212809,Balneário Piçarras,2023,,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46805,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FORTALEZA/CE,CE,2304400,Fortaleza,2024,0,30
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,a,24284,CENTRO UNIVERSITÁRIO UNIFTEC - CAMPUS: UNIDADE SEDE,RS,4305108,Caxias do Sul,2023,0,40
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2023,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,49377,FACULDADE SANTA MARCELINA,SP,3550308,São Paulo,2022,2,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46797,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Concórdia/SC,SC,4204301,Concórdia,2023,0,20
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,t,31199,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - SANTO AMARO,SP,3550308,São Paulo,2023,0,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,46693,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR - CAMPUS TURU,MA,2111300,São Luís,2023,3,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46806,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (uniasselvi) - Polo de Apoio Presencial de Franca/SP,SP,3516200,Franca,2020,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46851,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVO HAMBURGO/RS,RS,4313409,Novo Hamburgo,2024,2,50
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,a,50241,UNIVERSIDADE PARANAENSE - UNIPAR - TOLEDO,PR,4127700,Toledo,2024,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46807,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FRANCISCO BELTRÃO/PR,PR,4108403,Francisco Beltrão,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24613,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - CAMPUS CANOAS,RS,4304606,Canoas,2020,1,20
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2021,1,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,50142,FACULDADE MURIALDO,RS,4305108,Caxias do Sul,2024,1,
+Técnico,40,Técnico em Eletrotécnica,Controle e Processos Industriais,Educação Presencial,1200,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,10
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,46724,FACULDADE TRÊS MARIAS,PB,2507507,João Pessoa,2023,1,20
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2024,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46815,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - uniasselvi - POLO DE APOIO PRESENCIAL DE IBIRAMA/SC,SC,4206900,Ibirama,2020,1,40
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2020,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,,1200,t,50089,FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DE SINOP - SETOR INDUSTRIAL,MT,5107909,Sinop,2022,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,29633,CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL - CAMPUS: EDIFICIO SEDE,DF,5300108,Brasília,2020,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2020,0,
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,24844,FACULDADE PITÁGORAS DE BETIM - CAMPUS: CAMPUS - BETIM - BETIM,MG,3106705,Betim,2022,2,10
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,5,10
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,31571,CENTRO UNIVERSITÁRIO CENTRAL PAULISTA - CAMPUS  - SÃO CARLOS - JD. CENTENÁRIO - CAMPUS SÃO CARLOS,,3548906,São Carlos,2022,2,60
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2020,0,60
+Técnico,16,Técnico em Meio Ambiente,Ambiente e Saúde,Educação Presencial,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46771,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BALNEÁRIO PIÇARRAS/SC,SC,4212809,Balneário Piçarras,2020,1,
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,43111,UNIVERSIDADE DA AMAZÔNIA - UNAMA - campus sede,PA,1501402,Belém,2022,2,20
+Técnico,85,Técnico em Edificações,Infraestrutura,Educação Presencial,1200,t,25014,CENTRO UNIVERSITÁRIO FUNDAÇÃO DE ENSINO OCTÁVIO BASTOS - UNIFEOB - Campus II - Mantiqueira,SP,3549102,São João da Boa Vista,2020,4,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46797,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Concórdia/SC,SC,4204301,Concórdia,2020,0,30
+Técnico,173,Técnico em Agronegócio,Recursos Naturais,Educação Presencial,1200,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2020,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46806,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (uniasselvi) - Polo de Apoio Presencial de Franca/SP,SP,3516200,Franca,2020,,30
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,50105,Centro Universitário de Tecnologia de Curitiba -  UNIFATEC - SEDE,PR,4106902,Curitiba,2020,1,40
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46852,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE OSÓRIO/RS,RS,4313508,Osório,2024,0,20
+Graduação,52,Graduação em Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,50105,Centro Universitário de Tecnologia de Curitiba -  UNIFATEC - SEDE,PR,4106902,Curitiba,2020,0,60
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,t,31199,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - SANTO AMARO,SP,3550308,São Paulo,2020,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46826,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPAJÉ/CE,CE,2306306,Itapagé,2020,3,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46872,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ESTÊVÃO/BA,BA,2928802,Santo Estêvão,2020,0,20
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,t,31563,FACULDADE REGIONAL DA BAHIA - UNIDADE SEDE - CAMPUS SALVADOR,BA,2927408,Salvador,2020,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46773,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BARRAS/PI,PI,2201200,Barras,2020,0,50
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46823,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - uniasselvi - POLO DE APOIO PRESENCIAL DE ITACOATIARA/AM,AM,1301902,Itacoatiara,2020,0,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,24170,CENTRO UNIVERSITÁRIO DO SUL DE MINAS - UNIS - Cidade Universitária,MG,3170701,Varginha,2021,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46789,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAPITÃO POÇO/PA,PA,1502301,Capitão Poço,2020,1,20
+Técnico,10,TÉCNICO EM GERÊNCIA EM SAÚDE,Ambiente e Saúde,Educação Presencial,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2021,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46791,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CASTANHAL/PA,PA,1502400,Castanhal,2020,0,
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,24310,UNIVERSIDADE CIDADE DE SÃO PAULO - CAMPUS: UNIVERSIDADE CIDADE DE SÃO PAULO - UNICID - POLO NA SEDE,SP,3550308,São Paulo,2022,1,10
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,24218,CENTRO UNIVERSITÁRIO FILADÉLFIA (UNIFIL) - SEDE,PR,4113700,Londrina,2022,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46879,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LUÍS/MA - UNIDADE 2,MA,2111300,São Luís,2023,1,30
+Técnico,232037,Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa,Desenvolvimento Educacional e Social,EAD,1200,a,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2024,0,40
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50236,FACULDADE DE BOTUCATU - FDB,SP,3507506,Botucatu,2022,1,20
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,1,20
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,a,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2022,0,20
+Técnico,10,TÉCNICO EM GERÊNCIA EM SAÚDE,Ambiente e Saúde,Educação Presencial,1200,t,46468,FACULDADE DE TECNOLOGIA FINACI - Unidade Brigadeiro,SP,3550308,São Paulo,2020,2,
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,31804,UNIVERSIDADE LA SALLE (UNILASALLE) - CANOAS SEDE,RS,4304606,Canoas,2021,5,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2020,2,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46819,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IPATINGA/MG,MG,3131307,Ipatinga,2020,0,60
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2020,0,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,31529,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Palhoça/SC,,4211900,Palhoça,2022,1,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,25211,FACULDADES INTEGRADAS SÃO PEDRO - CAMPUS: CAMPUS - VITÓRIA - SÃO PEDRO,ES,3205309,Vitória,2022,2,
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24860,CENTRO UNIVERSITÁRIO ATENAS - UNIATENAS - Unidade I,MG,3147006,Paracatu,2022,4,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47151,UNIVERSIDADE DO OESTE DE SANTA CATARINA - UNOESC - sede,SC,4209003,Joaçaba,2022,0,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,50026,CENTRO UNIVERSITÁRIO CEUNI - FAMETRO - UNIDADE 7 (ZONA SUL),AM,1302603,Manaus,2020,1,30
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2020,1,30
+Técnico,54,Técnico em Cooperativismo,Gestão e Negócios,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2020,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46827,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPECURU MIRIM/MA,MA,2105401,Itapecuru Mirim,2020,0,40
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,47102,CENTRO UNIVERSITÁRIO GUAIRACÁ,PR,4109401,Guarapuava,2020,3,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46869,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO AMARO DA IMPERATRIZ/SC,SC,4215703,Santo Amaro da Imperatriz,2020,0,60
+Técnico,232036,Técnico em Tradução e Interpretação de Libras,Desenvolvimento Educacional e Social,EAD,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2020,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46803,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FARROUPILHA/RS,RS,4307906,Farroupilha,2020,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46862,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PORTÃO/RS,RS,4314803,Portão,2020,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2022,1,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50299,FACULDADE UNIFAMETRO CASCAVEL - CAMPUS PRINCIPAL,CE,2303501,Cascavel,2022,1,50
+Técnico,36,Técnico em Automação Industrial,Controle e Processos Industriais,Educação Presencial,1200,t,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2020,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46896,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VIAMÃO/RS,RS,4323002,Viamão,2022,0,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2022,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31497,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Itapiranga/SC,SC,4208401,Itapiranga,2020,1,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46852,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE OSÓRIO/RS,RS,4313508,Osório,2021,1,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46828,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPIPOCA/CE,CE,2306405,Itapipoca,2020,0,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46838,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LUÍS EDUARDO MAGALHÃES/BA,BA,2919553,Luís Eduardo Magalhães,2020,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46822,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - POLO DE APOIO PRESENCIAL DE IRECÊ/BA,BA,2914604,Irecê,2022,1,30
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46492,FACULDADE DE TECNOLOGIA ALTOMEDIO SÃO FRANCISCO,MG,3151206,Pirapora,2023,0,40
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46831,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JEQUIÉ/BA,BA,2918001,Jequié,2022,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46848,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NITERÓI/RJ,RJ,3303302,Niterói,2024,5,20
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2022,2,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24824,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO TORRES,RS,4321501,Torres,2022,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50246,FACULDADE FOCUS - CAMPUS PRINCIPAL,PR,4104808,Cascavel,2020,0,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46858,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PESQUEIRA/PE,PE,2610905,Pesqueira,2020,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24602,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO CARAZINHO,RS,4304705,Carazinho,2020,2,60
+Técnico,232036,Técnico em Tradução e Interpretação de Libras,Desenvolvimento Educacional e Social,EAD,1200,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,,3550308,São Paulo,2022,4,60
+Técnico,144,TÉCNICO EM INSTRUMENTO MUSICAL,Produção Cultural e Design,Educação Presencial,1200,a,24170,CENTRO UNIVERSITÁRIO DO SUL DE MINAS - UNIS - Cidade Universitária,MG,3170701,Varginha,2022,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46894,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VENÂNCIO AIRES/RS,RS,4322608,Venâncio Aires,2022,1,
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2022,,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46867,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ROLIM DE MOURA/RO,RO,1100288,Rolim de Moura,2020,1,20
+Técnico,37,Técnico em Eletroeletrônica,Controle e Processos Industriais,Educação Presencial,1200,a,24468,FACULDADE DE AMERICANA - CAMPUS: CAMPUS - AMERICANA - JARDIM LUCIENE,SP,3501608,Americana,2022,0,30
+Técnico,10,TÉCNICO EM GERÊNCIA EM SAÚDE,Ambiente e Saúde,Educação Presencial,1200,a,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46805,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FORTALEZA/CE,CE,2304400,Fortaleza,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46829,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JAÍBA/MG,MG,3135050,Jaíba,2020,3,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46875,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO JOÃO BATISTA/SC,SC,4216305,São João Batista,2022,2,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50017,FACULDADE SANTA TEREZA,AM,1302603,Manaus,2020,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46772,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BARRA DA ESTIVA/BA,BA,2902807,Barra da Estiva,2022,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,24563,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SANTARÉM,PA,1506807,Santarém,2020,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46851,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVO HAMBURGO/RS,RS,4313409,Novo Hamburgo,2020,1,50
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46806,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (uniasselvi) - Polo de Apoio Presencial de Franca/SP,SP,3516200,Franca,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2022,1,30
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24118,CENTRO UNIVERSITÁRIO CATÓLICA DO TOCANTINS (UNICATÓLICA) - Unidade Sede - Palmas,TO,1721000,Palmas,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24817,ULBRA CACHOEIRA DO SUL - POLO CACHOEIRA DO SUL,RS,4303004,Cachoeira do Sul,2022,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46811,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE GRAVATAÍ/RS,RS,4309209,Gravataí,2020,0,
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,30825,Centro Universitário de Excelência (UNEX) - CAMPUS - FEIRA DE SANTANA - SIM,BA,2910800,Feira de Santana,2022,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46886,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SOBRAL/CE,CE,2312908,Sobral,2020,1,20
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2022,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46898,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VITÓRIA DA CONQUISTA/BA,BA,2933307,Vitória da Conquista,2020,2,40
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24565,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POlo ULBRA PORTO ALEGRE,RS,4314902,Porto Alegre,2022,5,20
+Técnico,378731,TÉCNICO EM DESENVOLVIMENTO COMUNITÁRIO,Desenvolvimento Educacional e Social,EAD,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,2,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46777,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BRASÍLIA/DF - UNIDADE 5,DF,5300108,Brasília,2022,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24218,CENTRO UNIVERSITÁRIO FILADÉLFIA (UNIFIL) - SEDE,PR,4113700,Londrina,2022,0,
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46881,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO MATEUS DO SUL/PR,PR,4125605,São Mateus do Sul,2022,1,10
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,t,41986,CENTRO UNIVERSITÁRIO DE PATOS DE MINAS - UNIDADE SEDE - CAMPUS PATOS DE MINAS,MG,3148004,Patos de Minas,2024,2,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,50142,FACULDADE MURIALDO,,4305108,Caxias do Sul,2022,4,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46947,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PORTO ALEGRE/RS - UNIDADE 1,RS,4314902,Porto Alegre,2022,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46834,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LAGES/SC,SC,4209300,Lages,2020,1,30
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2022,1,
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,a,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2022,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46880,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LUIS/MA - UNIDADE 1,MA,2111300,São Luís,2021,0,50
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,31067,UNIVERSIDADE BRAZ CUBAS - CAMPUS SEDE,SP,3530607,Mogi das Cruzes,2022,3,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46803,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FARROUPILHA/RS,RS,4307906,Farroupilha,2022,0,
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,a,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2022,2,15
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31122,CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO - Campus Pirituba,SP,3550308,São Paulo,2022,0,
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,0,15
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,a,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2022,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2022,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2022,1,15
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31161,FACULDADE ANHANGÜERA DE CAMPINAS - CAMPUS:UNIDADE IV (SEDE) - UNIDADE CAMPINAS,SP,3509502,Campinas,2022,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46484,FACULDADE IMESP MONITOR,SP,3550308,São Paulo,2021,1,30
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2021,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24114,UNIVERSIDADE CATÓLICA DE BRASÍLIA - UCB - BRASÍLIA,DF,5300108,Brasília,2021,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46853,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PAIÇANDU/PR,PR,4117503,Paiçandu,2021,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31529,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Palhoça/SC,SC,4211900,Palhoça,2021,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,42026,UNIVERSIDADE DE UBERABA - CAMPUS SEDE - UBERABA - 657746X - CAMPUS UBERABA,MG,3170107,Uberaba,2022,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46778,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BREU BRANCO/PA,PA,1501782,Breu Branco,2021,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46793,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAXIAS/MA,MA,2103000,Caxias,2021,2,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2022,5,20
+Técnico,16,Técnico em Meio Ambiente,Ambiente e Saúde,Educação Presencial,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2021,2,30
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,31200,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - LIBERDADE - PRÉDIO 10,,3550308,São Paulo,2021,0,50
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,24218,CENTRO UNIVERSITÁRIO FILADÉLFIA (UNIFIL) - SEDE,PR,4113700,Londrina,2021,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46774,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BARREIRAS/BA,BA,2903201,Barreiras,2021,1,30
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,31067,UNIVERSIDADE BRAZ CUBAS - CAMPUS SEDE,SP,3530607,Mogi das Cruzes,2021,2,20
+Técnico,95,Técnico em Transporte de Cargas,Infraestrutura,Educação Presencial,1000,t,49947,FACULDADE ACESITA - FACESITA,MG,3168705,Timóteo,2021,4,60
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24673,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO PALMAS,TO,1721000,Palmas,2021,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46847,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NATAL/RN - UNIDADE 1,RN,2408102,Natal,2021,1,10
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47931,FACULDADE PITÁGORAS DE BELO HORIZONTE - UNIDADE - VENDA NOVA,MG,3106200,Belo Horizonte,2022,,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2023,1,30
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2021,0,40
+Técnico,20,Técnico em Órteses e Próteses,Ambiente e Saúde,Educação Presencial,1200,t,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2021,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2021,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46878,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LOURENÇO DO SUL/RS,RS,4318804,São Lourenço do Sul,2021,3,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46800,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ESTÂNCIA VELHA/RS,RS,4307609,Estância Velha,2021,0,
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,t,43161,FACULDADE DE SAÚDE IBITURUNA - UNIDADE SEDE - CAMPUS MONTES CLAROS,MG,3143302,Montes Claros,2021,2,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50107,CLARETIANO - CENTRO UNIVERSITÁRIO - CLARETIANOBT -  SEDE BATATAIS,SP,3505906,Batatais,2021,0,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31524,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Camaquã/RS,RS,4303509,Camaquã,2021,0,60
+Técnico,232033,Técnico em Computação Gráfica,Informação e Comunicação,EAD,1000,t,50099,FACULDADE SENAC GOIÁS - CAMPOS SANTA GENOVEVA,GO,5208707,Goiânia,2021,1,60
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2024,1,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24203,CENTRO UNIVERSITÁRIO DE JAGUARIÚNA (UniFAJ) - Campus II,SP,3524709,Jaguariúna,2023,1,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46790,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CARAZINHO/RS,RS,4304705,Carazinho,2021,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46823,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - uniasselvi - POLO DE APOIO PRESENCIAL DE ITACOATIARA/AM,AM,1301902,Itacoatiara,2022,1,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,46730,FACULDADE DAMA - campus principal,SC,4203808,Canoinhas,2024,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46870,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ÂNGELO/RS,RS,4317509,Santo Ângelo,2021,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46846,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MONTES CLAROS/MG,MG,3143302,Montes Claros,2021,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2024,1,40
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,a,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2024,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,50121,FACULDADES INTEGRADAS DE ARACRUZ-FAACZ,ES,3200607,Aracruz,2023,0,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31707,UNIVERSIDADE DO OESTE PAULISTA - CAMPUS: CAMPUS I  SEDE ADMINISTRATIVA PRESIDENTE PRUDENTE - CAMPUS REITORIA,,3541406,Presidente Prudente,2023,2,20
+Técnico,71,Técnico em Lazer,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,a,24310,UNIVERSIDADE CIDADE DE SÃO PAULO - CAMPUS: UNIVERSIDADE CIDADE DE SÃO PAULO - UNICID - POLO NA SEDE,SP,3550308,São Paulo,2024,5,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24530,CENTRO UNIVERSITÁRIO CAMPOS DE ANDRADE - CAMPUS: CAMPUS - CURITIBA - CAMPO COMPRIDO,PR,4106902,Curitiba,2023,2,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,50090,FACULDADE PITÁGORAS DE LONDRINA,PR,4113700,Londrina,2023,0,30
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,46490,FACULDADE FAMART - UNIDADE SEDE,MG,3133808,Itaúna,2024,0,50
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2024,1,20
+Técnico,1,Técnico em Agente Comunitário de Saúde,Ambiente e Saúde,Educação Presencial,1200,a,50111,CLARETIANO - CENTRO UNIVERSITÁRIO - CLARETIANO - CENTRO UNIVERSITÁRIO,SP,3543907,Rio Claro,2024,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24565,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POlo ULBRA PORTO ALEGRE,RS,4314902,Porto Alegre,2021,4,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,25121,CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX - CAMPUS: UNIDADE SEDE,MG,3106200,Belo Horizonte,2024,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46874,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO BENTO DO UNA/PE,PE,2613008,São Bento do Una,2021,1,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,24817,ULBRA CACHOEIRA DO SUL - POLO CACHOEIRA DO SUL,RS,4303004,Cachoeira do Sul,2021,1,10
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,a,50123,FACULDADE ICESP - UNIDADE ÁGUAS CLARAS,DF,5300108,Brasília,2024,0,20
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,a,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2024,0,30
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,50245,UNIVERSIDADE PARANAENSE (UNIPAR) - CASCAVEL,PR,4104808,Cascavel,2024,3,40
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2023,0,20
+Técnico,12,Técnico em Saúde Bucal,Ambiente e Saúde,Educação Presencial,1200,a,50212,FACULDADE SETE LAGOAS - FACSETE - Prédio Novo nº 86,MG,3167202,Sete Lagoas,2024,2,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,46568,UNIVERSIDADE DE MARÍLIA - UNIDADE SEDE,SP,3529005,Marília,2023,0,20
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,24563,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SANTARÉM,PA,1506807,Santarém,2024,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46841,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MARACAJU/MS,MS,5005400,Maracaju,2021,1,10
+Técnico,58,Técnico em Qualidade,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2020,1,60
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50274,FACULDADE TRÊS MARIAS - FTM - Faculdade Três Marias,PB,2507507,João Pessoa,2021,0,60
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,a,46618,CENTRO UNIVERSITÁRIO IMEPAC - ARAGUARI - UNIDADE SEDE,MG,3103504,Araguari,2022,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46877,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LEOPOLDO/RS,RS,4318705,São Leopoldo,2023,1,
+Técnico,62,Técnico em Condomínio,Gestão e Negócios,Educação Presencial,800,a,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2024,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46895,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VERANÓPOLIS/RS,RS,4322806,Veranópolis,2021,0,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,50086,FACULDADE HOLISTICA - FAHOL,PR,4106902,Curitiba,2023,1,30
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,50105,Centro Universitário de Tecnologia de Curitiba -  UNIFATEC - SEDE,PR,4106902,Curitiba,2023,1,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31592,FACULDADE PROMOVE DE SETE LAGOAS - UNIDADE SEDE - CAMPUS SETE LAGOAS,MG,3167202,Sete Lagoas,2022,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46785,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Campos Novos/SC,SC,4203600,Campos Novos,2022,2,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46764,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ALEGRETE/RS,RS,4300406,Alegrete,2023,5,20
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2023,2,60
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24602,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO CARAZINHO,RS,4304705,Carazinho,2023,0,20
+Técnico,141,Técnico em Design de Móveis,Produção Cultural e Design,Educação Presencial,800,t,50137,FACULDADE DE CIÊNCIAS HUMANAS ESUDA,,2611606,Recife,2023,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31645,UNIVERSIDADE DE FRANCA - POLO NA SEDE,SP,3516200,Franca,2023,1,20
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,46532,FACULDADE DE CIÊNCIAS DO TOCANTINS - CAMPUS II,TO,1702109,Araguaína,2023,2,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,31939,FACULDADE ANHANGUERA DE ANÁPOLIS - FACULDADE ANHANGUERA DE ANáPOLIS - CAMPUS ANÁPOLIS,GO,5201108,Anápolis,2023,4,50
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,a,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2023,0,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,50298,FACULDADE UNIFAMETRO MARACANAÚ - CAMPUS SEDE,CE,2307650,Maracanaú,2022,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24824,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO TORRES,RS,4321501,Torres,2021,,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46876,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO JOAQUIM/SC,SC,4216503,São Joaquim,2023,1,60
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,a,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2023,0,
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2023,0,10
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,50296,UNIVERSIDADE PARANAENSE - UNIPAR - GUAÍRA,PR,4108809,Guaíra,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31804,UNIVERSIDADE LA SALLE (UNILASALLE) - CANOAS SEDE,RS,4304606,Canoas,2021,3,30
+Técnico,232033,Técnico em Computação Gráfica,Informação e Comunicação,EAD,1000,a,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31513,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Mairinque/SP,SP,3528403,Mairinque,2021,2,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,31645,UNIVERSIDADE DE FRANCA - POLO NA SEDE,SP,3516200,Franca,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46842,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MARINGÁ/PR,PR,4115200,Maringá,2021,0,20
+Técnico,18,Técnico em Nutrição e Dietética,Ambiente e Saúde,Educação Presencial,1200,a,43426,CENTRO UNIVERSITÁRIO DO NORTE - uninorte - Unidade de Ensino XV,AM,1302603,Manaus,2023,1,
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,a,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2023,1,10
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2023,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31516,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Balneário Camboriú/SC,SC,4202008,Balneário Camboriú,2021,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46769,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ARAQUARI/SC,SC,4201307,Araquari,2023,1,60
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,30825,Centro Universitário de Excelência (UNEX) - CAMPUS - FEIRA DE SANTANA - SIM,BA,2910800,Feira de Santana,2023,1,30
+Técnico,34,TÉCNICO EM SECRETARIA ESCOLAR,Desenvolvimento Educacional e Social,Educação Presencial,800,t,50121,FACULDADES INTEGRADAS DE ARACRUZ-FAACZ,ES,3200607,Aracruz,2020,1,
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2020,0,20
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2020,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2021,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46802,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ESTEIO/RS,RS,4307708,Esteio,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46812,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE GUAÍBA/RS,RS,4309308,Guaíba,2021,2,30
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,t,24195,UNIVERSIDADE NOVE DE JULHO - CAMPUS: VILA MARIA,SP,3550308,São Paulo,2020,5,40
+Graduação,43,Graduação em Mecânica,Controle e Processos Industriais,Educação Presencial,1200,a,46730,FACULDADE DAMA - campus principal,SC,4203808,Canoinhas,2020,2,20
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,31645,UNIVERSIDADE DE FRANCA - POLO NA SEDE,SP,3516200,Franca,2020,0,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46857,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PENTECOSTE/CE,CE,2310704,Pentecoste,2020,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31485,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Campo Grande/MS - Unidade 1,MS,5002704,Campo Grande,2022,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,,4115200,Maringá,2020,4,30
+Técnico,125,Técnico em Panificação,Produção Alimentícia,Educação Presencial,800,t,43426,CENTRO UNIVERSITÁRIO DO NORTE - uninorte - Unidade de Ensino XV,AM,1302603,Manaus,2020,0,50
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31532,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Passo Fundo/RS,RS,4314100,Passo Fundo,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2020,1,30
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,0,20
+Técnico,58,Técnico em Qualidade,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,0,60
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50141,CENTRO UNIVERSITÁRIO DA SERRA GAÚCHA - FSG - CAMPUS SEDE,RS,4305108,Caxias do Sul,2020,3,
+Técnico,34,TÉCNICO EM SECRETARIA ESCOLAR,Desenvolvimento Educacional e Social,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2020,0,10
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,24530,CENTRO UNIVERSITÁRIO CAMPOS DE ANDRADE - CAMPUS: CAMPUS - CURITIBA - CAMPO COMPRIDO,PR,4106902,Curitiba,2020,2,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24673,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO PALMAS,TO,1721000,Palmas,2021,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46856,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PELOTAS/RS - UNIDADE 2,RS,4314407,Pelotas,2022,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46885,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SIDROLÂNDIA/MS,MS,5007901,Sidrolândia,2021,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46814,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Herval d'Oeste/SC,SC,4206702,Herval d´Oeste,2022,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46893,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TORRES/RS,RS,4321501,Torres,2020,1,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,24959,UNIÃO DAS FACULDADES DOS GRANDES LAGOS - UNILAGO - CAMPUS SÃO JOSÉ DO RIO PRETO,SP,3549805,São José do Rio Preto,2020,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46788,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANOAS/RS - UNIDADE 2,RS,4304606,Canoas,2020,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46859,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PINHAIS/PR,PR,4119152,Pinhais,2020,1,10
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31645,UNIVERSIDADE DE FRANCA - POLO NA SEDE,SP,3516200,Franca,2023,1,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46809,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE GOIANÉSIA DO PARÁ/PA,PA,1503093,Goianésia do Pará,2020,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46873,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO BENTO DO SUL/SC,SC,4215802,São Bento do Sul,2020,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46780,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CACHOEIRINHA/RS,RS,4303103,Cachoeirinha,2021,1,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46840,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MANACAPURU/AM,AM,1302504,Manacapuru,2020,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46850,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVA SERRANA/MG,MG,3145208,Nova Serrana,2020,2,15
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,t,25121,CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX - CAMPUS: UNIDADE SEDE,MG,3106200,Belo Horizonte,2020,5,15
+Técnico,378733,TÉCNICO EM GASTRONOMIA,"Turismo, Hospitalidade e Lazer",EAD,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2020,2,
+Técnico,10,TÉCNICO EM GERÊNCIA EM SAÚDE,Ambiente e Saúde,Educação Presencial,1200,t,31193,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - LIBERDADE,SP,3550308,São Paulo,2020,0,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,24443,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: CAMPUS ANÁLIA FRANCO,SP,3550308,São Paulo,2020,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,31508,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL - PAULO AFONSO/BA - UNIDADE PAULO AFONSO,BA,2924009,Paulo Afonso,2020,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46779,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CABO FRIO/RJ,RJ,3300704,Cabo Frio,2020,2,30
+Técnico,378733,TÉCNICO EM GASTRONOMIA,"Turismo, Hospitalidade e Lazer",EAD,800,t,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2020,4,40
+Técnico,12,Técnico em Saúde Bucal,Ambiente e Saúde,Educação Presencial,1200,t,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2020,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2021,1,60
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,,20
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,t,50212,FACULDADE SETE LAGOAS - FACSETE - Prédio Novo nº 86,MG,3167202,Sete Lagoas,2020,1,20
+Técnico,77,Técnico em Redes de Computadores,Informação e Comunicação,Educação Presencial,1000,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,0,20
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,t,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46784,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAMPO MOURÃO/PR,PR,4104303,Campo Mourão,2021,0,50
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,3,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46845,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MONTENEGRO/RS,RS,4312401,Montenegro,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2021,2,20
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2020,0,60
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2020,0,
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2020,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46787,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANGUÇU/RS,RS,4304507,Canguçu,2020,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46866,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE RIO GRANDE/RS,RS,4315602,Rio Grande,2020,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,47244,FACULDADE SAPIENS - PORTO VELHO,RO,1100205,Porto Velho,2021,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46705,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE AÇAILÂNDIA / MA,MA,2100055,Açailândia,2021,1,20
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2021,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46817,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IMBITUBA/SC,SC,4207304,Imbituba,2021,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46877,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LEOPOLDO/RS,RS,4318705,São Leopoldo,2020,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46833,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JUAZEIRO DO NORTE/CE,CE,2307304,Juazeiro do Norte,2021,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46765,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ALVORADA/RS,RS,4300604,Alvorada,2021,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46785,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Campos Novos/SC,SC,4203600,Campos Novos,2022,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46799,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE DIVINÓPOLIS/MG,MG,3122306,Divinópolis,2021,2,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46836,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LINHARES/ES,ES,3203205,Linhares,2021,5,30
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,a,50240,Centro Universitário Fametro ( Unifametro) - CAMPUS CARNEIRO DA CUNHA,CE,2304400,Fortaleza,2023,2,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46849,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVA PRATA/RS,RS,4313300,Nova Prata,2024,0,20
+Técnico,378734,TÉCNICO EM SERVIÇOS DE RESTAURANTE E BAR,"Turismo, Hospitalidade e Lazer",EAD,800,t,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2020,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46855,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PAROBÉ/RS,RS,4314050,Parobé,2021,1,20
+Técnico,139,TÉCNICO EM DESIGN DE INTERIORES,Produção Cultural e Design,Educação Presencial,1200,a,50137,FACULDADE DE CIÊNCIAS HUMANAS ESUDA,PE,2611606,Recife,2022,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46882,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SAPIRANGA/RS,RS,4319901,Sapiranga,2021,4,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,50107,CLARETIANO - CENTRO UNIVERSITÁRIO - CLARETIANOBT -  SEDE BATATAIS,SP,3505906,Batatais,2024,0,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2021,1,40
+Técnico,125,Técnico em Panificação,Produção Alimentícia,Educação Presencial,800,a,30845,UNIVERSIDADE METODISTA DE PIRACICABA - CAMPUS: CAMPUS - PIRACICABA - TAQUARAL,SP,3538709,Piracicaba,2023,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2020,0,60
+Técnico,173,Técnico em Agronegócio,Recursos Naturais,Educação Presencial,1200,a,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2024,,20
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2021,0,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2023,0,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,46726,FACULDADE DOM ADÉLIO TOMASIM - FADAT - Campus Principal,CE,2311306,Quixadá,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46816,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE IGREJINHA/RS,RS,4310108,Igrejinha,2021,0,50
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2021,0,20
+Técnico,232036,Técnico em Tradução e Interpretação de Libras,Desenvolvimento Educacional e Social,EAD,1200,t,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2021,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46783,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAMPO BOM/RS,RS,4303905,Campo Bom,2021,3,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46824,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ITAJUBÁ/MG,MG,3132404,Itajubá,2021,0,60
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2021,2,
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,t,31707,UNIVERSIDADE DO OESTE PAULISTA - CAMPUS: CAMPUS I  SEDE ADMINISTRATIVA PRESIDENTE PRUDENTE - CAMPUS REITORIA,SP,3541406,Presidente Prudente,2024,0,10
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,49947,FACULDADE ACESITA - FACESITA,MG,3168705,Timóteo,2021,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,25591,FACULDADE PITÁGORAS DE LINHARES - CAMPUS: UNIDADE SEDE,ES,3203205,Linhares,2023,1,30
+Técnico,77,Técnico em Redes de Computadores,Informação e Comunicação,Educação Presencial,1000,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2021,1,40
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46788,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANOAS/RS - UNIDADE 2,RS,4304606,Canoas,2020,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46871,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ANTÔNIO DE JESUS/BA,BA,2928703,Santo Antônio de Jesus,2021,0,20
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,t,31239,FACULDADE DO NOROESTE DE MINAS - SEDE - POLO PARACATU,MG,3147006,Paracatu,2021,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31591,Centro Universitário Funorte (UNIFUNORTE) - Unidade JK,MG,3143302,Montes Claros,2021,1,
+Técnico,76,Técnico em Programação de Jogos Digitais,Informação e Comunicação,Educação Presencial,1000,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2021,1,10
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2022,0,10
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46873,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO BENTO DO SUL/SC,SC,4215802,São Bento do Sul,2020,1,60
+Técnico,62,Técnico em Condomínio,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2021,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46786,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANELA/RS,RS,4304408,Canela,2021,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46840,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MANACAPURU/AM,AM,1302504,Manacapuru,2020,2,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46821,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE IRANDUBA/AM,AM,1301852,Iranduba,2021,5,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46792,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Catalão/GO,GO,5205109,Catalão,2021,2,50
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46779,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CABO FRIO/RJ,RJ,3300704,Cabo Frio,2020,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31508,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL - PAULO AFONSO/BA - UNIDADE PAULO AFONSO,BA,2924009,Paulo Afonso,2021,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46883,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SAPUCAIA DO SUL/RS,RS,4320008,Sapucaia do Sul,2021,1,40
+Técnico,32,Técnico em Multimeios Didáticos,Desenvolvimento Educacional e Social,Educação Presencial,1200,t,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2021,2,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,24284,CENTRO UNIVERSITÁRIO UNIFTEC - CAMPUS: UNIDADE SEDE,RS,4305108,Caxias do Sul,2022,4,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46820,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IPU/CE,CE,2305803,Ipu,2021,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31532,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Passo Fundo/RS,RS,4314100,Passo Fundo,2020,1,60
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2020,,50
+Técnico,85,Técnico em Edificações,Infraestrutura,Educação Presencial,1200,t,46693,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR - CAMPUS TURU,MA,2111300,São Luís,2020,1,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,31592,FACULDADE PROMOVE DE SETE LAGOAS - UNIDADE SEDE - CAMPUS SETE LAGOAS,MG,3167202,Sete Lagoas,2020,0,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,24310,UNIVERSIDADE CIDADE DE SÃO PAULO - CAMPUS: UNIVERSIDADE CIDADE DE SÃO PAULO - UNICID - POLO NA SEDE,SP,3550308,São Paulo,2023,0,30
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,t,32174,UNIVERSIDADE NOVE DE JULHO - VILA PRUDENTE - CAMPUS SÃO PAULO,SP,3550308,São Paulo,2020,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46856,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PELOTAS/RS - UNIDADE 2,RS,4314407,Pelotas,2020,3,40
+Técnico,61,Técnico em Seguros,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2020,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46814,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Herval d'Oeste/SC,SC,4206702,Herval d´Oeste,2020,2,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46798,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE CURVELO/MG,MG,3120904,Curvelo,2021,0,20
+Técnico,21,Técnico em Podologia,Ambiente e Saúde,Educação Presencial,1200,t,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2020,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46768,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ARACATI/CE,CE,2301109,Aracati,2021,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31489,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Joinville/SC - Unidade 1,SC,4209102,Joinville,2021,1,30
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,t,46567,FACULDADE UNIBRAS DO NORTE GOIANO (FACBRAS) - Porangatu-Setor Leste,GO,5218003,Porangatu,2020,1,50
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2021,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46536,FACULDADE DE TECNOLOGIA FINACI - UNIDADE LIBERDADE,SP,3550308,São Paulo,2020,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2020,1,20
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2020,1,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2020,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31485,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Campo Grande/MS - Unidade 1,MS,5002704,Campo Grande,2020,1,10
+Técnico,68,Técnico em Eventos,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,1,20
+Técnico,13,TÉCNICO EM IMAGEM PESSOAL,Ambiente e Saúde,Educação Presencial,800,t,50155,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - FMU - LIBERDADE - CLÍNICAS,SP,3550308,São Paulo,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46783,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAMPO BOM/RS,RS,4303905,Campo Bom,2021,2,40
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2022,5,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46824,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE ITAJUBÁ/MG,MG,3132404,Itajubá,2021,2,20
+Técnico,70,Técnico em Hospedagem,"Turismo, Hospitalidade e Lazer",Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2020,0,20
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2020,0,
+Técnico,21,Técnico em Podologia,Ambiente e Saúde,Educação Presencial,1200,t,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2020,1,10
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,50025,CENTRO UNIVERSITÁRIO CEUNI - FAMETRO - UNIDADE 6 (ZONA LESTE),AM,1302603,Manaus,2020,2,10
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,t,24195,UNIVERSIDADE NOVE DE JULHO - CAMPUS: VILA MARIA,SP,3550308,São Paulo,2021,4,60
+Técnico,85,Técnico em Edificações,Infraestrutura,Educação Presencial,1200,a,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,60
+Técnico,15,Técnico em Massoterapia,Ambiente e Saúde,Educação Presencial,1200,a,31645,UNIVERSIDADE DE FRANCA - POLO NA SEDE,SP,3516200,Franca,2023,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24766,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA- POLO GRAVATAÍ,RS,4309209,Gravataí,2021,1,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46871,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ANTÔNIO DE JESUS/BA,BA,2928703,Santo Antônio de Jesus,2021,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46786,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANELA/RS,RS,4304408,Canela,2024,0,20
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2020,3,30
+Graduação,151,Publicidade,Produção Cultural e Design,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2023,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46883,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SAPUCAIA DO SUL/RS,RS,4320008,Sapucaia do Sul,2021,2,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,50142,FACULDADE MURIALDO,RS,4305108,Caxias do Sul,2022,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46889,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TAPES/RS,RS,4321105,Tapes,2021,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46798,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE CURVELO/MG,MG,3120904,Curvelo,2022,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46814,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - Polo de Apoio Presencial de Herval d'Oeste/SC,SC,4206702,Herval d´Oeste,2021,1,20
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,a,24310,UNIVERSIDADE CIDADE DE SÃO PAULO - CAMPUS: UNIVERSIDADE CIDADE DE SÃO PAULO - UNICID - POLO NA SEDE,SP,3550308,São Paulo,2023,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46842,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MARINGÁ/PR,PR,4115200,Maringá,2020,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46768,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ARACATI/CE,CE,2301109,Aracati,2024,1,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31516,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Balneário Camboriú/SC,SC,4202008,Balneário Camboriú,2020,1,50
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,24170,CENTRO UNIVERSITÁRIO DO SUL DE MINAS - UNIS - Cidade Universitária,MG,3170701,Varginha,2022,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46812,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE GUAÍBA/RS,RS,4309308,Guaíba,2020,0,30
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2020,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,47000,FACULDADE TRÊS MARIAS (FTM) - GUARABIRA I (POLO EAD),PB,2506301,Guarabira,2021,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31485,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Campo Grande/MS - Unidade 1,MS,5002704,Campo Grande,2023,0,
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,50239,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO -  UNIFACEMP,BA,2928703,Santo Antônio de Jesus,2022,2,10
+Técnico,1,Técnico em Agente Comunitário de Saúde,Ambiente e Saúde,Educação Presencial,1200,a,50107,CLARETIANO - CENTRO UNIVERSITÁRIO - CLARETIANOBT -  SEDE BATATAIS,SP,3505906,Batatais,2023,5,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,a,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2024,2,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,a,42807,CENTRO UNIVERSITÁRIO FUNDAÇÃO SANTO ANDRÉ - CUFSA -  Santo André PRÍNCIPE DE GALES,SP,3547809,Santo André,2024,0,40
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46866,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE RIO GRANDE/RS,RS,4315602,Rio Grande,2023,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,24613,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - CAMPUS CANOAS,RS,4304606,Canoas,2023,1,20
+Técnico,18,Técnico em Nutrição e Dietética,Ambiente e Saúde,Educação Presencial,1200,a,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2023,2,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,31513,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Mairinque/SP,SP,3528403,Mairinque,2020,4,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46705,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE AÇAILÂNDIA / MA,MA,2100055,Açailândia,2023,0,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46817,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IMBITUBA/SC,SC,4207304,Imbituba,2023,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46833,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JUAZEIRO DO NORTE/CE,CE,2307304,Juazeiro do Norte,2023,1,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,46693,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR - CAMPUS TURU,MA,2111300,São Luís,2023,0,60
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2021,,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46836,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LINHARES/ES,ES,3203205,Linhares,2023,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46765,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ALVORADA/RS,RS,4300604,Alvorada,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46849,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVA PRATA/RS,RS,4313300,Nova Prata,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46855,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PAROBÉ/RS,RS,4314050,Parobé,2023,0,30
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,a,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2023,0,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2022,0,30
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,a,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2023,3,40
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,a,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2023,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,24585,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SANTA MARIA,RS,4316907,Santa Maria,2023,2,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2023,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46837,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LIVRAMENTO DE NOSSA SENHORA/BA,BA,2919504,Livramento de Nossa Senhora,2023,0,20
+Técnico,125,Técnico em Panificação,Produção Alimentícia,Educação Presencial,800,a,31595,INSTITUTO DE CIÊNCIAS DA SAÚDE - CAMPUS JK - CAMPUS MONTES CLAROS,MG,3143302,Montes Claros,2023,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46842,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MARINGÁ/PR,PR,4115200,Maringá,2023,1,30
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,25017,Centro Universitário de Excelência Eniac - ENIAC - ENDEREÇO SEDE,SP,3518800,Guarulhos,2023,1,50
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31516,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Balneário Camboriú/SC,SC,4202008,Balneário Camboriú,2023,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46812,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE GUAÍBA/RS,RS,4309308,Guaíba,2023,1,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,46651,FACULDADE QI BRASIL,RS,4309209,Gravataí,2022,1,60
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2023,0,
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31875,FACULDADE ANHANGÜERA DE SÃO JOSÉ - UNIDADE SEDE - UNIDADE SÃO JOSÉ,SP,3549904,São José dos Campos,2023,1,10
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50162,UNIVERSIDADE CRUZEIRO DO SUL - CRUZEIRO - CAMPUS PAULISTA,SP,3550308,São Paulo,2023,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24530,CENTRO UNIVERSITÁRIO CAMPOS DE ANDRADE - CAMPUS: CAMPUS - CURITIBA - CAMPO COMPRIDO,PR,4106902,Curitiba,2023,0,30
+Graduação,304427,DESENVOLVIMENTO DE SISTEMAS,Informação e Comunicação,EAD,1200,t,24227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU - CAMPUS: BLOCO B,PE,2611606,Recife,2021,2,40
+Técnico,73,Técnico em Informática,Informação e Comunicação,Educação Presencial,1200,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2023,5,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,50236,FACULDADE DE BOTUCATU - FDB,SP,3507506,Botucatu,2020,2,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46798,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE CURVELO/MG,MG,3120904,Curvelo,2021,0,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,42656,CENTRO UNIVERSITÁRIO DE JOÃO PESSOA - POLO NA SEDE - CAMPUS JOÃO PESSOA,PB,2507507,João Pessoa,2023,0,
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47159,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA (UNIFOA) - CAMPUS - VOLTA REDONDA - TRÊS POÇOS,RJ,3306305,Volta Redonda,2023,1,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46885,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SIDROLÂNDIA/MS,MS,5007901,Sidrolândia,2022,2,10
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,46733,CENTRO UNIVERSITÁRIO FACENS (UniFACENS) - 	Unidade SEDE,SP,3552205,Sorocaba,2022,4,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46788,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANOAS/RS - UNIDADE 2,RS,4304606,Canoas,2023,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46840,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MANACAPURU/AM,AM,1302504,Manacapuru,2023,1,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46786,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CANELA/RS,RS,4304408,Canela,2021,,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46873,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO BENTO DO SUL/SC,SC,4215802,São Bento do Sul,2023,1,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,24613,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - CAMPUS CANOAS,RS,4304606,Canoas,2020,0,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,50212,FACULDADE SETE LAGOAS - FACSETE - Prédio Novo nº 86,MG,3167202,Sete Lagoas,2022,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46850,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE NOVA SERRANA/MG,MG,3145208,Nova Serrana,2023,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46865,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE RIO DAS OSTRAS/RJ,RJ,3304524,Rio das Ostras,2023,3,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,31804,UNIVERSIDADE LA SALLE (UNILASALLE) - CANOAS SEDE,RS,4304606,Canoas,2023,0,40
+Técnico,75,Técnico em Manutenção e Suporte em Informática,Informação e Comunicação,Educação Presencial,1000,t,42656,CENTRO UNIVERSITÁRIO DE JOÃO PESSOA - POLO NA SEDE - CAMPUS JOÃO PESSOA,PB,2507507,João Pessoa,2022,2,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,50262,ALFA - FACULDADE DE TEÓFILO OTONI - ALFA TO - campus principal,MG,3168606,Teófilo Otoni,2023,0,60
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,0,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2022,1,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24799,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO GUAÍBA,RS,4309308,Guaíba,2022,1,30
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,31591,Centro Universitário Funorte (UNIFUNORTE) - Unidade JK,MG,3143302,Montes Claros,2022,0,50
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2022,1,20
+Técnico,378759,TÉCNICO EM PLANEJAMENTO E CONTROLE DA PRODUÇÃO,Produção Industrial,EAD,800,t,50239,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO -  UNIFACEMP,BA,2928703,Santo Antônio de Jesus,2022,1,30
+Técnico,155,Técnico em Biocombustíveis,Produção Industrial,Educação Presencial,1200,a,30845,UNIVERSIDADE METODISTA DE PIRACICABA - CAMPUS: CAMPUS - PIRACICABA - TAQUARAL,SP,3538709,Piracicaba,2022,1,20
+Graduação,3,Biotecnologia,Produção Industrial,Educação Presencial,1200,a,30845,UNIVERSIDADE METODISTA DE PIRACICABA - CAMPUS: CAMPUS - PIRACICABA - TAQUARAL,SP,3538709,Piracicaba,2021,0,60
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,t,25099,UNIVERSIDADE FEEVALE - CAMPUS: SEDE,RS,4313409,Novo Hamburgo,2024,1,
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,1,10
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46837,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LIVRAMENTO DE NOSSA SENHORA/BA,BA,2919504,Livramento de Nossa Senhora,2021,0,20
+Técnico,38,Técnico em Eletromecânica,Controle e Processos Industriais,Educação Presencial,1200,a,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,2,30
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,46931,CENTRO UNIVERSITARIO UNIRB - Alagoinhas,BA,2900702,Alagoinhas,2022,5,40
+Técnico,32,Técnico em Multimeios Didáticos,Desenvolvimento Educacional e Social,Educação Presencial,1200,a,46486,FACULDADE JARDINS,SE,2800308,Aracaju,2022,2,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,30825,Centro Universitário de Excelência (UNEX) - CAMPUS - FEIRA DE SANTANA - SIM,BA,2910800,Feira de Santana,2022,0,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,47000,FACULDADE TRÊS MARIAS (FTM) - GUARABIRA I (POLO EAD),PB,2506301,Guarabira,2022,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46817,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IMBITUBA/SC,SC,4207304,Imbituba,2021,1,
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,29632,CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL - CAMPUS REITOR REZENDE RIBEIRO DE REZENDE,DF,5300108,Brasília,2022,2,10
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2022,4,10
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,46836,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE LINHARES/ES,ES,3203205,Linhares,2021,0,60
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46765,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ALVORADA/RS,RS,4300604,Alvorada,2021,1,60
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2022,1,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46733,CENTRO UNIVERSITÁRIO FACENS (UniFACENS) - 	Unidade SEDE,SP,3552205,Sorocaba,2023,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,50296,UNIVERSIDADE PARANAENSE - UNIPAR - GUAÍRA,PR,4108809,Guaíra,2023,0,20
+Técnico,38,Técnico em Eletromecânica,Controle e Processos Industriais,Educação Presencial,1200,a,24468,FACULDADE DE AMERICANA - CAMPUS: CAMPUS - AMERICANA - JARDIM LUCIENE,SP,3501608,Americana,2022,3,10
+Técnico,232033,Técnico em Computação Gráfica,Informação e Comunicação,EAD,1000,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2022,0,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46492,FACULDADE DE TECNOLOGIA ALTOMEDIO SÃO FRANCISCO,MG,3151206,Pirapora,2022,2,20
+Técnico,146,Técnico em Multimídia,Produção Cultural e Design,Educação Presencial,800,t,42663,FACULDADES INTEGRADAS HÉLIO ALONSO - UNIDADE SEDE - CAMPUS RIO DE JANEIRO,RJ,3304557,Rio de Janeiro,2022,0,30
+Técnico,74,Técnico em Informática para Internet,Informação e Comunicação,Educação Presencial,1000,t,31804,UNIVERSIDADE LA SALLE (UNILASALLE) - CANOAS SEDE,RS,4304606,Canoas,2021,0,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46705,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE AÇAILÂNDIA / MA,MA,2100055,Açailândia,,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,31513,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Mairinque/SP,SP,3528403,Mairinque,2021,1,40
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46536,FACULDADE DE TECNOLOGIA FINACI - UNIDADE LIBERDADE,SP,3550308,São Paulo,2021,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46880,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO LUIS/MA - UNIDADE 1,MA,2111300,São Luís,2021,0,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,50017,FACULDADE SANTA TEREZA,AM,1302603,Manaus,,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46861,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PONTE NOVA/MG,MG,3152105,Ponte Nova,,1,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,29632,CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL - CAMPUS REITOR REZENDE RIBEIRO DE REZENDE,DF,5300108,Brasília,2021,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24608,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO MANAUS CEULM,AM,1302603,Manaus,2023,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,31529,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - Polo de Apoio Presencial de Palhoça/SC,SC,4211900,Palhoça,2020,1,50
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46853,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PAIÇANDU/PR,PR,4117503,Paiçandu,2023,1,20
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,t,46722,CENTRO UNIVERSITÁRIO DE GOIÁS UNI- ANHANGUERA,GO,5208707,Goiânia,2021,0,30
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,24218,CENTRO UNIVERSITÁRIO FILADÉLFIA (UNIFIL) - SEDE,PR,4113700,Londrina,2022,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46778,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BREU BRANCO/PA,PA,1501782,Breu Branco,2023,5,60
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,a,24114,UNIVERSIDADE CATÓLICA DE BRASÍLIA - UCB - BRASÍLIA,DF,5300108,Brasília,2023,2,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46793,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAXIAS/MA,MA,2103000,Caxias,2023,0,10
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,a,50086,FACULDADE HOLISTICA - FAHOL,PR,4106902,Curitiba,2024,0,20
+Técnico,2,Técnico em Análises Clínicas,Ambiente e Saúde,Educação Presencial,1200,t,46720,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO - UNESC - unidade sede,ES,3201506,Colatina,2021,1,30
+Técnico,32,Técnico em Multimeios Didáticos,Desenvolvimento Educacional e Social,Educação Presencial,1200,t,46724,FACULDADE TRÊS MARIAS,PB,2507507,João Pessoa,2021,2,40
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50123,FACULDADE ICESP - UNIDADE ÁGUAS CLARAS,DF,5300108,Brasília,2021,4,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46863,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PRESIDENTE FIGUEIREDO/AM,AM,1303536,Presidente Figueiredo,2023,0,20
+Técnico,124,Técnico em Confeitaria,Produção Alimentícia,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2021,1,20
+Graduação,52,Graduação em Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2021,1,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,48835,FACULDADE AJES - AJES - Campus Principal,MT,5105150,Juína,2021,0,10
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,t,47000,FACULDADE TRÊS MARIAS (FTM) - GUARABIRA I (POLO EAD),PB,2506301,Guarabira,2021,,10
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2021,0,60
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,t,30649,FACULDADES INTEGRADAS MACHADO DE ASSIS (FEMA) - UNIDADE SEDE,RS,4317202,Santa Rosa,2021,0,60
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,46921,Centro Universitário União das Américas Descomplica - UNIAMÉRICA - Campus Centro,PR,4108304,Foz do Iguaçu,2021,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46870,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SANTO ÂNGELO/RS,RS,4317509,Santo Ângelo,2021,0,
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2021,0,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,31490,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - ITUPORANGA - POLO ITUPORANGA,SC,4208500,Ituporanga,2023,0,20
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2021,3,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,24468,FACULDADE DE AMERICANA - CAMPUS: CAMPUS - AMERICANA - JARDIM LUCIENE,SP,3501608,Americana,2020,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46822,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI (UNIASSELVI) - POLO DE APOIO PRESENCIAL DE IRECÊ/BA,BA,2914604,Irecê,2023,2,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46828,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPIPOCA/CE,CE,2306405,Itapipoca,2021,0,40
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,50142,FACULDADE MURIALDO,RS,4305108,Caxias do Sul,2021,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2021,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46875,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO JOÃO BATISTA/SC,SC,4216305,São João Batista,2023,1,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,50227,FACULDADE METROPOLITANA DO CEARÁ  - SEDE CAMBEBA,CE,2304400,Fortaleza,2021,1,20
+Técnico,63,Técnico em Serviços Públicos,Gestão e Negócios,Educação Presencial,800,t,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2021,0,20
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,1,30
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,24786,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO ITUMBIARA,GO,5211503,Itumbiara,2021,1,50
+Técnico,378709,TÉCNICO EM DEPENDÊNCIA QUÍMICA,Ambiente e Saúde,EAD,1200,t,24189,UNIVERSIDADE NOVE DE JULHO - CAMPUS: UNIDADE VERGUEIRO,SP,3550308,São Paulo,2021,1,20
+Técnico,378733,TÉCNICO EM GASTRONOMIA,"Turismo, Hospitalidade e Lazer",EAD,800,t,31193,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS - LIBERDADE,SP,3550308,São Paulo,2021,0,30
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,50129,FACULDADES INTEGRADAS DOS CAMPOS GERAIS - CAMPUS SEDE OLARIAS,PR,4119905,Ponta Grossa,2021,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46947,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PORTO ALEGRE/RS - UNIDADE 1,RS,4314902,Porto Alegre,2023,1,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46804,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FÁTIMA/BA,BA,2910750,Fátima,2021,0,
+Técnico,40,Técnico em Eletrotécnica,Controle e Processos Industriais,Educação Presencial,1200,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2021,2,10
+Técnico,378733,TÉCNICO EM GASTRONOMIA,"Turismo, Hospitalidade e Lazer",EAD,800,t,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2021,5,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2021,2,30
+Técnico,65,Técnico em Vendas,Gestão e Negócios,Educação Presencial,800,t,50105,Centro Universitário de Tecnologia de Curitiba -  UNIFATEC - SEDE,PR,4106902,Curitiba,2021,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46761,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ÁGUA BRANCA/PI,PI,2200202,Água Branca,2021,0,20
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,46673,FACULDADE VIA SAPIENS - fvs - campus principal,CE,2313401,Tianguá,2021,1,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46854,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PARACATU/MG,MG,3147006,Paracatu,2021,2,20
+Técnico,16,Técnico em Meio Ambiente,Ambiente e Saúde,Educação Presencial,1200,t,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2021,4,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46750,FACULDADE UNIFICADA DO ESTADO DE SAO PAULO,SP,3529401,Mauá,2023,0,10
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,25014,CENTRO UNIVERSITÁRIO FUNDAÇÃO DE ENSINO OCTÁVIO BASTOS - UNIFEOB - Campus II - Mantiqueira,SP,3549102,São João da Boa Vista,2023,1,10
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,t,47003,FACULDADE TRÊS MARIAS (FTM) - ITAPORANGA (POLO EAD),PB,2507002,Itaporanga,2021,,60
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,t,43130,FACULDADE DE ENSINO SUPERIOR E FORMAÇÃO INTEGRAL - FACULDADE DE ENSINO SUPERIOR E FORMAÇÃO INTEGRAL - CAMPUS 697778,SP,3516705,Garça,2021,1,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,32207,FACULDADE DE CIÊNCIAS HUMANAS E BIOLÓGICAS E DA SAÚDE - UNIDADE SEDE - CAMPUS PRIMAVERA DO LESTE,MT,5107040,Primavera do Leste,2023,0,30
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31941,FACULDADE SANTA TEREZINHA - FACULDADE SANTA TEREZINHA - UNIDADE BRASILIA,DF,5300108,Brasília,2023,0,
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46819,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE IPATINGA/MG,MG,3131307,Ipatinga,2021,0,20
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,31591,Centro Universitário Funorte (UNIFUNORTE) - Unidade JK,MG,3143302,Montes Claros,2020,3,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50139,CENTRO UNIVERSITÁRIO CESUCA - CESUCA - CAMPUS SEDE,RS,4303103,Cachoeirinha,2023,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46827,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ITAPECURU MIRIM/MA,MA,2105401,Itapecuru Mirim,2023,2,30
+Técnico,378734,TÉCNICO EM SERVIÇOS DE RESTAURANTE E BAR,"Turismo, Hospitalidade e Lazer",EAD,800,t,50069,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO - UNIDADE CAMPUS,PR,4104303,Campo Mourão,2021,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46803,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FARROUPILHA/RS,RS,4307906,Farroupilha,2023,0,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46862,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PORTÃO/RS,RS,4314803,Portão,2022,1,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,a,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2023,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46881,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO MATEUS DO SUL/PR,PR,4125605,São Mateus do Sul,2023,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,31864,FACULDADE ANHANGÜERA DE RIBEIRÃO PRETO - Unidade SEDE,SP,3543402,Ribeirão Preto,2023,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24663,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO JI-PARANÁ,RO,1100122,Ji-Paraná,2023,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46777,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BRASÍLIA/DF - UNIDADE 5,DF,5300108,Brasília,2023,1,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46804,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - UNIASSELVI - POLO DE APOIO PRESENCIAL DE FÁTIMA/BA,BA,2910750,Fátima,2023,1,50
+Graduação,9,Farmácia,Ambiente e Saúde,Educação Presencial,1200,a,50017,FACULDADE SANTA TEREZA,AM,1302603,Manaus,2024,0,20
+Graduação,3,Biotecnologia,Produção Industrial,Educação Presencial,1200,t,50274,FACULDADE TRÊS MARIAS - FTM - Faculdade Três Marias,PB,2507507,João Pessoa,2021,1,30
+Técnico,23,Técnico em Radiologia,Ambiente e Saúde,Educação Presencial,1200,a,46693,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR - CAMPUS TURU,MA,2111300,São Luís,2024,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46890,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TELÊMACO BORBA/PR,PR,4127106,Telêmaco Borba,2023,0,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,47925,FACULDADE ANHANGUERA PITÁGORAS DE JUNDIAÍ - UNIDADE SEDE,SP,3525904,Jundiaí,2023,2,
+Técnico,147,TÉCNICO EM PAISAGISMO,Produção Cultural e Design,Educação Presencial,1000,t,50137,FACULDADE DE CIÊNCIAS HUMANAS ESUDA,PE,2611606,Recife,2020,5,10
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46832,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JI-PARANÁ/RO,RO,1100122,Ji-Paraná,2021,2,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46839,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MÃE DO RIO/PA,PA,1504059,Mãe do Rio,2023,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46782,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE CAMOCIM/CE,CE,2302602,Camocim,2022,0,40
+Graduação,52,Graduação em Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2022,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46892,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TOMÉ-AÇÚ/PA,PA,1508001,Tomé-Açu,2023,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46864,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE RIO BRANCO/AC - UNIDADE 1,AC,1200401,Rio Branco,2023,4,20
+Técnico,232039,Técnico em Soldagem,Controle e Processos Industriais,EAD,1200,a,50121,FACULDADES INTEGRADAS DE ARACRUZ-FAACZ,ES,3200607,Aracruz,2024,0,
+Técnico,84,Técnico em Desenho de Construção Civil,Infraestrutura,Educação Presencial,1200,a,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2024,1,10
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46884,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SETE LAGOAS/MG,MG,3167202,Sete Lagoas,2024,1,10
+Técnico,60,Técnico em Secretariado,Gestão e Negócios,Educação Presencial,800,a,46610,"Centro Universitário de Ensino, Ciência e Tecnologia do Paraná (UniEnsino) - SEde",PR,4106902,Curitiba,2024,0,60
+Técnico,21,Técnico em Podologia,Ambiente e Saúde,Educação Presencial,1200,a,50212,FACULDADE SETE LAGOAS - FACSETE - Prédio Novo nº 86,MG,3167202,Sete Lagoas,2024,0,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46896,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VIAMÃO/RS,RS,4323002,Viamão,2024,3,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,50234,Faculdade ENAU (FacEnau) - CAMPUS PRINCIPAL,SP,3543303,Ribeirão Pires,2024,0,
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,46831,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JEQUIÉ/BA,BA,2918001,Jequié,2024,2,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,31490,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - ITUPORANGA - POLO ITUPORANGA,SC,4208500,Ituporanga,2024,0,20
+Técnico,232045,Técnico em Manutenção de Máquinas Pesadas,Controle e Processos Industriais,EAD,1200,a,50116,FACULDADE TECSOMA - CAMPUS FAZENDINHA,MG,3147006,Paracatu,2024,0,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,24860,CENTRO UNIVERSITÁRIO ATENAS - UNIATENAS - Unidade I,MG,3147006,Paracatu,2024,1,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46897,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VISEU/PA,PA,1508308,Viseu,2024,1,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,a,24645,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - POLO SÃO JERÔNIMO,RS,4318408,São Jerônimo,2024,1,40
+Técnico,125,Técnico em Panificação,Produção Alimentícia,Educação Presencial,800,a,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2024,0,20
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46777,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE BRASÍLIA/DF - UNIDADE 5,DF,5300108,Brasília,2024,1,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46881,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SÃO MATEUS DO SUL/PR,PR,4125605,São Mateus do Sul,2024,1,20
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,t,46947,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE PORTO ALEGRE/RS - UNIDADE 1,RS,4314902,Porto Alegre,2023,1,20
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,a,31179,Centro Universitário CEUNI FAMETRO - SEDE - CAMPUS MANAUS,AM,1302603,Manaus,2024,0,20
+Técnico,39,Técnico em Eletrônica,Controle e Processos Industriais,Educação Presencial,1200,a,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2024,1,30
+Técnico,27,Técnico em Segurança do Trabalho,Segurança,Educação Presencial,1200,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2024,1,50
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,a,46890,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TELÊMACO BORBA/PR,PR,4127106,Telêmaco Borba,2024,0,20
+Técnico,18,Técnico em Nutrição e Dietética,Ambiente e Saúde,Educação Presencial,1200,a,31769,Universidade Universus Veritas Guarulhos - Univeritas UNG - Guarulhos Centro,SP,3518800,Guarulhos,2024,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46832,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JI-PARANÁ/RO,RO,1100122,Ji-Paraná,2024,5,20
+Técnico,21,Técnico em Podologia,Ambiente e Saúde,Educação Presencial,1200,a,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2022,2,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46839,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE MÃE DO RIO/PA,PA,1504059,Mãe do Rio,2022,0,
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,a,30451,UNIVERSIDADE PITÁGORAS UNOPAR - LONDRINA/PR - PIZA - SEDE,PR,4113700,Londrina,2022,0,10
+Técnico,10,TÉCNICO EM GERÊNCIA EM SAÚDE,Ambiente e Saúde,Educação Presencial,1200,a,46451,CENTRO UNIVERSITÁRIO FAEL - UNIFAEL - CAMPUS LAPA BOQUEIRÃO,PR,4113205,Lapa,2022,1,20
+Técnico,124,Técnico em Confeitaria,Produção Alimentícia,Educação Presencial,800,t,43426,CENTRO UNIVERSITÁRIO DO NORTE - uninorte - Unidade de Ensino XV,AM,1302603,Manaus,2022,2,30
+Graduação,57,Marketing,Gestão e Negócios,Educação Presencial,800,a,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2023,4,40
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46892,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE TOMÉ-AÇÚ/PA,PA,1508001,Tomé-Açu,2022,0,20
+Graduação,52,Graduação em Comércio Exterior,Gestão e Negócios,Educação Presencial,800,t,24885,UNIVERSIDADE CESUMAR (UNICESUMAR) - MARINGÁ,PR,4115200,Maringá,2022,1,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46864,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE RIO BRANCO/AC - UNIDADE 1,AC,1200401,Rio Branco,2024,1,20
+Técnico,16,Técnico em Meio Ambiente,Ambiente e Saúde,Educação Presencial,1200,a,46818,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - CENTRO UNIVERSITÁRIO LEONARDO DA VINCI,SC,4207502,Indaial,2022,0,
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,47098,CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER - PAP CURITIBA 05,PR,4106902,Curitiba,2023,,10
+Técnico,133,TÉCNICO EM COMPOSIÇÃO E ARRANJO,Produção Cultural e Design,Educação Presencial,1200,a,25091,CENTRO UNIVERSITÁRIO METODISTA - CAMPUS: UNIDADE CENTRAL IPA,RS,4314902,Porto Alegre,2022,0,10
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,a,50103,Faculdades Sulamérica Bahia - Campus Principal,BA,2919553,Luís Eduardo Magalhães,2022,0,60
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,46618,CENTRO UNIVERSITÁRIO IMEPAC - ARAGUARI - UNIDADE SEDE,MG,3103504,Araguari,2023,0,60
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46884,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE SETE LAGOAS/MG,MG,3167202,Sete Lagoas,2022,0,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46896,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE VIAMÃO/RS,RS,4323002,Viamão,2022,0,
+Técnico,232034,Técnico em Serviços Jurídicos,Gestão e Negócios,EAD,800,t,46722,CENTRO UNIVERSITÁRIO DE GOIÁS UNI- ANHANGUERA,GO,5208707,Goiânia,2022,0,20
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,31490,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - ITUPORANGA - POLO ITUPORANGA,SC,4208500,Ituporanga,2024,3,30
+Técnico,53,Técnico em Contabilidade,Gestão e Negócios,Educação Presencial,800,t,46831,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE JEQUIÉ/BA,BA,2918001,Jequié,2022,0,30
+Técnico,28,Técnico em Vigilância em Saúde,Ambiente e Saúde,Educação Presencial,1200,a,50239,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO -  UNIFACEMP,BA,2928703,Santo Antônio de Jesus,2022,2,30
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46724,FACULDADE TRÊS MARIAS,PB,2507507,João Pessoa,2024,0,40
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,a,50139,CENTRO UNIVERSITÁRIO CESUCA - CESUCA - CAMPUS SEDE,RS,4303103,Cachoeirinha,2023,0,20
+Técnico,64,Técnico em Transações Imobiliárias,Gestão e Negócios,Educação Presencial,800,t,47000,FACULDADE TRÊS MARIAS (FTM) - GUARABIRA I (POLO EAD),PB,2506301,Guarabira,2022,1,60
+Graduação,59,Graduação em Recursos Humanos,Gestão e Negócios,Educação Presencial,800,t,46761,CENTRO UNIVERSITÁRIO LEONARDO DA VINCI - POLO DE APOIO PRESENCIAL DE ÁGUA BRANCA/PI,PI,2200202,Água Branca,2024,1,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,24613,UNIVERSIDADE LUTERANA DO BRASIL - ULBRA - CAMPUS CANOAS,RS,4304606,Canoas,2022,1,20
+Graduação,6,Enfermagem,Ambiente e Saúde,Educação Presencial,1200,t,42750,FACULDADE DE IPORÁ - FAI - FACULDADE DE IPORÁ,GO,5210208,Iporá,2023,0,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,43111,UNIVERSIDADE DA AMAZÔNIA - UNAMA - campus sede,PA,1501402,Belém,2022,1,30
+Graduação,50,ADMINISTRAÇÃO,Gestão e Negócios,Educação Presencial,800,a,24956,UNIVERSIDADE NILTON LINS - UNINILTON LINS - CAMPUS MANAUS,AM,1302603,Manaus,2023,1,50
+Técnico,55,Técnico em Finanças,Gestão e Negócios,Educação Presencial,800,t,50002,FACULDADE DE ENSINO SUPERIOR PELEGRINO CIPRIANI - FASPEC,MT,5103403,Cuiabá,2020,1,20
+Técnico,8,Técnico em Estética,Ambiente e Saúde,Educação Presencial,1200,t,46999,ESCOLA DE ENSINO SUPERIOR DO AGRESTE PARAIBANO - UNIDADE SHOPPING,PB,2506301,Guarabira,2020,0,30
+Técnico,32,Técnico em Multimeios Didáticos,Desenvolvimento Educacional e Social,Educação Presencial,1200,t,47002,FACULDADE TRÊS MARIAS (FTM) - PEDRO AFONSO (POLO EAD),TO,1716505,Pedro Afonso,2020,1,20
+Técnico,232050,Técnico em Cuidados de Idosos,Ambiente e Saúde,EAD,800,t,50239,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO -  UNIFACEMP,BA,2928703,Santo Antônio de Jesus,2020,1,60
+Técnico,51,Técnico em Comércio,Gestão e Negócios,Educação Presencial,800,t,46955,FACULDADE DESCOMPLICA  - campus principal,RJ,3304557,Rio de Janeiro,2020,0,
+Técnico,378732,TÉCNICO EM DESIGN GRÁFICO,Produção Cultural e Design,EAD,1000,t,24461,UNIVERSIDADE CRUZEIRO DO SUL - CAMPUS: UNIDADE SEDE,SP,3550308,São Paulo,2020,2,10
+Técnico,131,Técnico em Artesanato,Produção Cultural e Design,Educação Presencial,800,t,50137,FACULDADE DE CIÊNCIAS HUMANAS ESUDA,PE,2611606,Recife,2020,5,20
+Técnico,56,Técnico em Logística,Gestão e Negócios,Educação Presencial,800,t,41986,CENTRO UNIVERSITÁRIO DE PATOS DE MINAS - UNIDADE SEDE - CAMPUS PATOS DE MINAS,MG,3148004,Patos de Minas,2020,2,30
