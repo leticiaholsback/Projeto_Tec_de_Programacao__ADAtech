@@ -4,8 +4,8 @@ Composto por:
 - <i class="fa fa-lightbulb"></i> :star:Michele Regina
 - <i class="fa fa-lightbulb"></i> :star:Carlos Victor Santana
 - <i class="fa fa-lightbulb"></i> :star:Milena Juliane
-- <i class="fa fa-lightbulb"></i> :star:Thiago Rochedo
-- <i class="fa fa-lightbulb"></i> :star:Cristiane
+- <i class="fa fa-lightbulb"></i> :star:Letícia dos Santos
+- <i class="fa fa-lightbulb"></i> :star:Cristiane Rabelo
 - <i class="fa fa-lightbulb"></i> :star:Rafael Braga
 
 **Professores:**
