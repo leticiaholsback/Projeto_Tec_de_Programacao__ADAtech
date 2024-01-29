@@ -32,7 +32,7 @@ Como dito, foram inseridas métricas, pois o banco se compunha apenas de Dimens�
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-Realizamos toda a tratativa dos dados, com vários trechos de códigos relevantes ao aprendizado e entendimento do comportamento dos dados fictíciso na observaçao da evasão (desistencia), UFs e Instituições com mais ofertas de cursos, maiiroes cargas horárias, e outliers, desvio padrão por Eixo Técnólogico, enfim...Pudemos extrair insights siginificativos com o uso das biliotecas Pandas e Matplotlib, foi um projeto muito divertido e sem dúvida alguma ajudou muito não só no aprendizado como em fixar conhecimento. 
+Realizamos toda a tratativa dos dados, com vários trechos de códigos relevantes ao aprendizado e entendimento do comportamento dos dados fictícios na observação da evasão (desistência), UFs e Instituições com mais ofertas de cursos, maiores cargas horárias, outliers, desvio padrão por Eixo Técnólogico, enfim...Pudemos extrair insights siginificativos com o uso das bibliotecas Pandas e Matplotlib, foi um projeto muito divertido e sem dúvida alguma ajudou muito não só no aprendizado como em fixar conhecimento. 
 Abaixo seguem alguns dos gráficos produzidos: 
 
 
